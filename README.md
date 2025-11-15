@@ -216,8 +216,9 @@ See [`docs/Task-07-UI-Design-Guide.md`](./docs/Task-07-UI-Design-Guide.md) for c
 This project was developed as a university course project.
 
 **Team Members:**
-- [Your Name] - [Role]
-- [Teammate Name] - [Role]
+- **Youssef** - Developer
+- **Dominic** - Developer
+- **Mustafa** - Developer
 
 ---
 
